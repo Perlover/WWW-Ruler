@@ -19,5 +19,5 @@ no_index:
     - inc
 resources:
   license: http://dev.perl.org/licenses/
-  repository: origin
+  repository: git://github.com/Perlover/WWW-Ruler.git
 version: 0.1
