@@ -99,7 +99,7 @@ start and end indices. Ruler can look like these examples:
 
 [E<nbsp>E<lt>E<lt>E<nbsp>] [E<nbsp>1E<nbsp>] [E<nbsp>...E<nbsp>] [E<nbsp>4E<nbsp>] [E<nbsp>5E<nbsp>] (E<nbsp>6E<nbsp>) [E<nbsp>7E<nbsp>] [E<nbsp>8E<nbsp>] [E<nbsp>...E<nbsp>] [E<nbsp>999E<nbsp>] [E<nbsp>E<gt>E<gt>E<nbsp>]
 
-(E<nbsp>1E<nbsp>) [E<nbsp>4E<nbsp>] [E<nbsp>5E<nbsp>] (E<nbsp>6E<nbsp>) [E<nbsp>7E<nbsp>] [E<nbsp>8E<nbsp>] [E<nbsp>...E<nbsp>] [E<nbsp>999E<nbsp>] [E<nbsp>E<gt>E<gt>E<nbsp>]
+[E<nbsp>1E<nbsp>] [E<nbsp>4E<nbsp>] [E<nbsp>5E<nbsp>] (E<nbsp>6E<nbsp>) [E<nbsp>7E<nbsp>] [E<nbsp>8E<nbsp>] [E<nbsp>...E<nbsp>] [E<nbsp>999E<nbsp>] [E<nbsp>E<gt>E<gt>E<nbsp>]
 
 [E<nbsp>E<lt>E<lt>E<nbsp>] [E<nbsp>1E<nbsp>] [E<nbsp>...E<nbsp>] [E<nbsp>4E<nbsp>] [E<nbsp>5E<nbsp>] (E<nbsp>6E<nbsp>) [E<nbsp>7E<nbsp>] [E<nbsp>8E<nbsp>] [E<nbsp>E<gt>E<gt>E<nbsp>]
 
